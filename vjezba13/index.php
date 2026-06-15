@@ -73,7 +73,7 @@ print '
 	}
 	print '
 	<footer>
-		<p>Copyright &copy; ' . date("Y") . ' Alen Šimec</p>
+		<p>Copyright &copy; ' . date("Y") . ' Leon Vincelj</p>
 	</footer>
 </body>
 </html>';

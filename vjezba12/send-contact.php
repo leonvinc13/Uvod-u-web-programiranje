@@ -107,7 +107,7 @@
 		</div>
 	</main>
 	<footer>
-		<p>Copyright &copy; 2017 Alen Šimec</p>
+		<p>Copyright &copy; Leon Vincelj</p>
 	</footer>
 	<!-- Google Analytics code -->
 	<script>
