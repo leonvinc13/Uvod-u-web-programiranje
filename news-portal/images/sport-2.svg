@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#b9d6e3"/>
+  <rect y="330" width="900" height="170" fill="#2c72a0"/>
+  <g fill="none" stroke="#fff" stroke-width="6" opacity=".7"><path d="M0 370q100-50 200 0t200 0 200 0 200 0 200 0"/><path d="M0 430q100-50 200 0t200 0 200 0 200 0 200 0"/></g>
+  <circle cx="360" cy="183" r="46" fill="#e0ae82"/>
+  <path d="m380 225 125 100-42 52-130-101z" fill="#ef5b45"/>
+  <path d="m448 304 140-70M350 270 200 315" stroke="#e0ae82" stroke-width="28" stroke-linecap="round"/>
+  <text x="720" y="90" fill="#173d51" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700">PLIVANJE</text>
+</svg>
+

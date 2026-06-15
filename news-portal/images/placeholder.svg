@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#dfe6e8"/>
+  <rect y="0" width="900" height="24" fill="#073f5c"/>
+  <text x="450" y="270" fill="#073f5c" text-anchor="middle" font-family="Georgia" font-size="100" font-weight="700">WALT</text>
+  <line x1="250" x2="650" y1="330" y2="330" stroke="#b8892d" stroke-width="8"/>
+</svg>

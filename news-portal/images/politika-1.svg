@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#173d51"/><stop offset="1" stop-color="#6f9aad"/></linearGradient></defs>
+  <rect width="900" height="500" fill="url(#g)"/>
+  <rect x="75" y="250" width="750" height="170" fill="#e8ecea"/>
+  <path d="M120 250 450 70l330 180" fill="#f6f3e9"/>
+  <g fill="#173d51"><rect x="165" y="275" width="55" height="145"/><rect x="280" y="275" width="55" height="145"/><rect x="395" y="275" width="55" height="145"/><rect x="510" y="275" width="55" height="145"/><rect x="625" y="275" width="55" height="145"/></g>
+  <text x="450" y="470" fill="#fff" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700">POLITIKA</text>
+</svg>
+

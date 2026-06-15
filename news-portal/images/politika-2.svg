@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#dce5e9"/>
+  <rect x="0" y="0" width="900" height="205" fill="#164965"/>
+  <circle cx="450" cy="172" r="80" fill="#e3b98f"/>
+  <path d="M370 163q80-150 160 0v-80H370z" fill="#27333a"/>
+  <path d="M265 500q30-235 185-235t185 235" fill="#253c56"/>
+  <rect x="430" y="300" width="40" height="200" fill="#b8892d"/>
+  <circle cx="450" cy="305" r="42" fill="#fafafa"/>
+  <text x="450" y="462" fill="#fff" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700">IZJAVA ZA MEDIJE</text>
+</svg>
+

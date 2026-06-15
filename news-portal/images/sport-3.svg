@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#282f38"/>
+  <circle cx="250" cy="230" r="110" fill="#d77636"/>
+  <path d="M140 230h220M250 120v220M170 150q160 80 160 160M330 150q-160 80-160 160" fill="none" stroke="#382317" stroke-width="8"/>
+  <rect x="555" y="45" width="250" height="180" fill="none" stroke="#fff" stroke-width="10"/>
+  <rect x="625" y="215" width="110" height="12" fill="#c94c3e"/>
+  <path d="m640 227 15 95 15-95m20 0 15 95 15-95" fill="none" stroke="#fff" stroke-width="5"/>
+  <text x="610" y="420" fill="#fff" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700">KOŠARKA</text>
+</svg>
+

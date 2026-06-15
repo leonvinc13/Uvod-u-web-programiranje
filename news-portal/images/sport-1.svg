@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#5f914b"/>
+  <path d="M0 410 900 150v350H0z" fill="#3d763c"/>
+  <path d="M0 438 900 178M160 500 900 285" stroke="#fff" stroke-width="8" opacity=".8"/>
+  <circle cx="370" cy="280" r="92" fill="#f4f4ed"/>
+  <path d="m370 215 42 31-16 49h-52l-16-49z" fill="#17212a"/>
+  <g fill="#17212a"><circle cx="305" cy="244" r="18"/><circle cx="435" cy="244" r="18"/><circle cx="330" cy="345" r="18"/><circle cx="410" cy="345" r="18"/></g>
+  <text x="680" y="425" fill="#fff" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700">NOGOMET</text>
+</svg>
+
